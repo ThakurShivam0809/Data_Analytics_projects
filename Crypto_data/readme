@@ -1,0 +1,3 @@
+This contains code for the crypto project 
+In this project with the help of an public API from the websitr "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest"
+I collected some data related to various cryptocurrencies, cleaned it and then created some visualizations to understand the data.
